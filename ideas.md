@@ -68,3 +68,5 @@ The mark is a bold vermilion square seal containing a navy offset dot and a shor
 - Keep the UI light, warm, and editorial; do not drift into generic SaaS purple, glassmorphism, or neon gaming motifs.
 - Treat every quiz state as a paper index card with a strong typographic hierarchy and a visible answer letter.
 - Use generated visuals only for atmospheric surfaces; never place essential question text inside an image.
+
+- **User override**: The app should be surprisingly simple. Remove decorative hero imagery, rail navigation, texture, and heavy shadows; keep only a small seal mark, clear typography, thin rules, and functional cards.
